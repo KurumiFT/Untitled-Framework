@@ -1,0 +1,12 @@
+{
+  "name": "Untitled-Framework",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Untitled": {
+        "$path": "src"
+      }
+    }
+  }
+}
